@@ -1,0 +1,20 @@
+h1 {
+    color: red;
+    font-size: 64px;
+    background: blue;
+}
+
+h2{
+    color: green;
+    font-family: Arial;
+}
+
+img {
+    width: 300px;
+}
+
+div{
+    padding: 30px;
+    background: gray;
+    text-align: center;
+}
